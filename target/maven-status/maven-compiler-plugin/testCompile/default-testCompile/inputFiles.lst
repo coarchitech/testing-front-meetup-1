@@ -1,0 +1,14 @@
+/home/jeisson/WorkSpaces/WorkSpaceCoarchitech/testing-front-meetup-1/src/test/java/com/sophossolutions/coarchitech/page/ResultsPage.java
+/home/jeisson/WorkSpaces/WorkSpaceCoarchitech/testing-front-meetup-1/src/test/java/com/sophossolutions/coarchitech/utils/Utils.java
+/home/jeisson/WorkSpaces/WorkSpaceCoarchitech/testing-front-meetup-1/src/test/java/com/sophossolutions/coarchitech/actions/RemoveAdvertisement.java
+/home/jeisson/WorkSpaces/WorkSpaceCoarchitech/testing-front-meetup-1/src/test/java/com/sophossolutions/coarchitech/utils/Constants.java
+/home/jeisson/WorkSpaces/WorkSpaceCoarchitech/testing-front-meetup-1/src/test/java/com/sophossolutions/coarchitech/controller/SeleniumManager.java
+/home/jeisson/WorkSpaces/WorkSpaceCoarchitech/testing-front-meetup-1/src/test/java/com/sophossolutions/coarchitech/actions/Action.java
+/home/jeisson/WorkSpaces/WorkSpaceCoarchitech/testing-front-meetup-1/src/test/java/com/sophossolutions/coarchitech/actions/LookForSong.java
+/home/jeisson/WorkSpaces/WorkSpaceCoarchitech/testing-front-meetup-1/src/test/java/com/sophossolutions/coarchitech/hooks/Steps.java
+/home/jeisson/WorkSpaces/WorkSpaceCoarchitech/testing-front-meetup-1/src/test/java/com/sophossolutions/coarchitech/page/HomePage.java
+/home/jeisson/WorkSpaces/WorkSpaceCoarchitech/testing-front-meetup-1/src/test/java/com/sophossolutions/coarchitech/page/BasePage.java
+/home/jeisson/WorkSpaces/WorkSpaceCoarchitech/testing-front-meetup-1/src/test/java/com/sophossolutions/coarchitech/runner/TestCucumberRunner.java
+/home/jeisson/WorkSpaces/WorkSpaceCoarchitech/testing-front-meetup-1/src/test/java/com/sophossolutions/coarchitech/hooks/Hooks.java
+/home/jeisson/WorkSpaces/WorkSpaceCoarchitech/testing-front-meetup-1/src/test/java/com/sophossolutions/coarchitech/steps/StepDefinitions.java
+/home/jeisson/WorkSpaces/WorkSpaceCoarchitech/testing-front-meetup-1/src/test/java/com/sophossolutions/coarchitech/page/ReproductionScreen.java
